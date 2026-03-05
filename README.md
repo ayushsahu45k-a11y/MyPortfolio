@@ -1,75 +1,125 @@
 ![Logo](cp.png)
+                                            #🚀 Ayush Portfolio
 
-# Amine Portfolio Showcase 💻
+Welcome to my Personal Portfolio Website!
+This is a modern and responsive portfolio designed to showcase my projects, skills, and development work. The website is built using HTML, CSS, and JavaScript with a clean UI, smooth animations, and responsive layout for all devices.
 
-Welcome to **Amine's Portfolio Showcase**!  
-A modern **portfolio website** designed to showcase projects, skills, and personal work using **HTML, CSS, and JavaScript**.  
-It is fully **responsive**, interactive, and visually appealing across desktop, tablet, and mobile devices.
+🌐 Live Demo
 
----
+You can view the live website here:
 
-## Live Demo 🚀
+🔗 Live Portfolio:
+https://your-portfolio-link.vercel.app/
 
-You can view the live website here: [Live Demo](https://stalwart-baklava-8ed433.netlify.app/)
+🌟 Website Sections
+🏠 Home
 
----
+Introduction section with my name, role, and short description.
 
-## 🌟 Website Sections
+👨‍💻 About
 
-- **Home**: Developer introduction with avatar and short description  
-- **About**: Experience, tech stack, personal insights, and skill cards  
-- **Projects**: Showcase of projects with images, descriptions, and skills  
-- **Services**: Highlighting services offered with interactive cards  
-- **Contact**: Contact form and social links with interactive hover effects  
-- **Footer**: Quick navigation links and social media links
+Details about my background, skills, technologies I use, and experience.
 
----
+📂 Projects
 
-## ⚡ Features
+Showcase of my projects with:
 
-- Dark theme with **blue accent color** for highlights  
-- Smooth scroll navigation between sections  
-- Fully **responsive design** for desktop, tablet, and mobile  
-- Hover effects and animations for buttons, cards, and links  
-- Contact form with validation  
-- Interactive social links  
+Project images
 
----
+Short descriptions
 
-## 🛠 Technologies Used
+Technologies used
 
-- **HTML5** – Structure and semantic content  
-- **CSS3** – Styling, responsive layouts, Flexbox & Grid  
-- **JavaScript (Vanilla JS)** – Interactivity and animations  
-- **Font Awesome / Boxicons** – Icons  
-- **AOS.js** – Scroll animations  
+GitHub links
 
----
+🛠 Services
 
-## License
+Information about services I provide such as:
 
-This project is licensed under the terms described in the [LICENSE](LICENSE) file.
+Web Development
 
----
+Frontend Development
 
-## 🚀 How to Use / Customize
+UI Design
 
-1. **Clone the repository:**
+📬 Contact
 
- ---
+Contact form where users can reach me directly.
 
-## 📬 Contact
+🔗 Footer
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+Quick navigation links and social media profiles.
 
----
+⚡ Features
 
-Made with ❤️ by **Amine Hamzaoui**
+✔ Fully Responsive Design (Desktop, Tablet, Mobile)
+✔ Modern UI with dark theme
+✔ Smooth scroll animations
+✔ Interactive cards and hover effects
+✔ Project showcase with images
+✔ Contact form with validation
+✔ Social media integration
 
+🛠 Technologies Used
+Frontend
 
-```bash
-git clone https://github.com/Saboo24/portfolio-showcase.git
+HTML5
+
+CSS3
+
+JavaScript (Vanilla JS)
+
+UI & Libraries
+
+Font Awesome
+
+Boxicons
+
+AOS.js (Animate On Scroll)
+
+📂 Projects Included
+
+Some projects featured in this portfolio:
+
+AgriVision AI – Smart agriculture AI solution
+
+RailOptix AI Controller – Railway monitoring AI system
+
+Personal Portfolio Website – Responsive developer portfolio
+
+🚀 How to Run Locally
+
+Clone the repository and open it in your browser.
+
+git clone https://github.com/ayushsahu45k-a11y/portfolio.git
+
+Then open:
+
+index.html
+
+in your browser.
+
+📬 Contact
+
+📧 Email: your-ayushsahu.45k@gmail.com
+
+💼 LinkedIn:
+https://www.linkedin.com/in/ayush-sahu-08277330b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+🐙 GitHub:
+https://github.com/ayushsahu45k-a11y
+
+📍 Location:
+Bhopal, India
+
+⭐ Support
+
+If you like this project, consider giving it a ⭐ on GitHub!
+
+📄 License
+
+This project is open-source and available under the MIT License.
+
+👨‍💻 Author
+
+Made with ❤️ by Ayush
